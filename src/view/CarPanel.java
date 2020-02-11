@@ -1,6 +1,6 @@
 /**
  * CarPanel - Panel that displaying the list of all registered cars to be manage
- * @author @author Danielle Monthe, Marie ... 
+ * @author Steve. 
  */
 package view;
 

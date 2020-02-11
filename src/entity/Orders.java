@@ -1,7 +1,7 @@
 /**
  * Orders - Define an object Order 
  * 
- * @author Danielle Monthe, Marie
+ * @author Steve
  */
 package entity;
 

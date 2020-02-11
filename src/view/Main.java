@@ -1,6 +1,6 @@
 /**
  * Main - Main class of the application
- * @author Danielle Monthe, Marie ... 
+ * @author Steve
  */
 package view;
 

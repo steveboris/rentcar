@@ -1,3 +1,6 @@
+/**
+ * @author Steve
+ */
 package view;
 
 import java.awt.Color;

@@ -1,6 +1,6 @@
 /**
  * CustomerTableModel - Implement the model table of for customer 
- * @author Danielle Monthe, Marie ... 
+ * @author Steve
  */
 package view;
 

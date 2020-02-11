@@ -1,6 +1,6 @@
 /**
  * CarService - Help to perform the CRUD operation for cars to the DB.
- * @author Danielle Monthe, Marie ..
+ * @author Steve
  */
 package service;
 

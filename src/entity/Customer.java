@@ -1,7 +1,7 @@
 /**
  * Customer - Define an object customer 
  * 
- * @author Danielle Monthe, Marie
+ * @author Steve
  */
 package entity;
 

@@ -1,6 +1,6 @@
 /**
 S * OrdersTableModel - Implement the model table of for orders
- * @author Danielle Monthe, Marie ... 
+ * @author Steve
  */
 package view;
 

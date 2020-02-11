@@ -2,7 +2,7 @@
  * ICarRepository - Interface for perform the CRUD(CREATE; READ; UPDATE; DELETE) operation 
  * to the DB.
  * 
- * @author Danielle Monthe, Marie
+ * @author Steve
  */
 package repository;
 

@@ -1,7 +1,7 @@
 /**
  * CRException - Help to Handle exception
  * 
- *  @author Danielle Monthe, Marie ...
+ *  @author Steve
  */
 package exception;
 

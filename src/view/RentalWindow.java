@@ -1,7 +1,7 @@
 /**
  * RentalWindow - Main window for the application displaying on three different tabs
  * respectively the panel of Cars, Customers and Orders to be manage.
- * @author Danielle Monthe, Marie ...
+ * @author Steve
  */
 package view;
 

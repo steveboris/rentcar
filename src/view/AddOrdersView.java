@@ -1,6 +1,6 @@
 /**
  * AddOrdersView - Help to display the panel to add a new orders or edit an existing orders
- * @author Danielle Monthe, Marie ... 
+ * @author Steve
  */
 package view;
 

@@ -1,6 +1,6 @@
 /**
  * AddCarView - Help to display the panel to add a new car or edit an existing car
- * @author Danielle Monthe, Marie ... 
+ * @author Steve 
  */
 package view;
 

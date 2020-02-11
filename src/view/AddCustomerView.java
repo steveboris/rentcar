@@ -1,6 +1,6 @@
 /**
  * AddCustomerView - Help to display the panel to add a new customer or edit an existing customer
- * @author Danielle Monthe, Marie ... 
+ * @author Steve
  */
 package view;
 

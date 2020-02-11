@@ -1,6 +1,6 @@
 /**
  * OrdersPanel - Panel that displaying the list of all registered orders
- * @author @author Danielle Monthe, Marie ... 
+ * @author Steve
  */
 package view;
 

@@ -1,7 +1,7 @@
 /**
  * Car - Define an object car 
  * 
- * @author Danielle Monthe, Marie
+ * @author Steve
  */
 package entity;
 

@@ -1,6 +1,6 @@
 /**
  * CarTableModel - Implement the model table of for car 
- * @author Danielle Monthe, Marie ... 
+ * @author Steve
  */
 package view;
 

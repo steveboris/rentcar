@@ -1,7 +1,7 @@
 /*
  * DBService - Help to connect the application with the Database
  *  
- *  @author Danielle Monthe, Marie ...
+ *  @author Steve
  */
 package service;
 
